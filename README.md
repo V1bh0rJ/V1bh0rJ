@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V1bh0rJ
+- 👋 Hi, I’m @V1bh0rJ (Vibhor)
 - 👀 I’m interested in ... creativity 😎
 - 🌱 I’m currently learning ...Python and Javascript 😪
 - 💞️ I’m looking to collaborate on ...Python based projects
